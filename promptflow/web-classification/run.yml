@@ -2,7 +2,7 @@ $schema: https://azuremlschemas.azureedge.net/promptflow/latest/Run.schema.json
 flow: .
 data: data.jsonl
 
-# define cloud resource
+# define cloud resource1
 runtime: ComputeInstance
 
 connections:
