@@ -6,7 +6,7 @@ column_mapping:
   groundtruth: ${data.answer}
   prediction: ${run.outputs.category}
 
-# define cloud resource1
+# define cloud resource11
 runtime: automatic
 
 connections:
