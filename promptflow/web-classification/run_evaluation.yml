@@ -15,4 +15,4 @@ connections:
     deployment_name: gpt35turbodeploymodel
   summarize_text_content:
     connection: AzureOpenAi
-    deployment_name:gpt35turbodeploymodel
+    deployment_name: gpt35turbodeploymodel
